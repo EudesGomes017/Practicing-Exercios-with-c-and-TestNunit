@@ -10,3 +10,15 @@ C:\projetos_Hvex\practicingLogics.Net\Exercises\obj\Debug\net6.0\Exercises.dll
 C:\projetos_Hvex\practicingLogics.Net\Exercises\obj\Debug\net6.0\refint\Exercises.dll
 C:\projetos_Hvex\practicingLogics.Net\Exercises\obj\Debug\net6.0\Exercises.pdb
 C:\projetos_Hvex\practicingLogics.Net\Exercises\obj\Debug\net6.0\ref\Exercises.dll
+C:\Users\steel\practicingLogics.Net\Exercises\bin\Debug\net6.0\Exercises.deps.json
+C:\Users\steel\practicingLogics.Net\Exercises\bin\Debug\net6.0\Exercises.dll
+C:\Users\steel\practicingLogics.Net\Exercises\bin\Debug\net6.0\Exercises.pdb
+C:\Users\steel\practicingLogics.Net\Exercises\obj\Debug\net6.0\Exercises.csproj.AssemblyReference.cache
+C:\Users\steel\practicingLogics.Net\Exercises\obj\Debug\net6.0\Exercises.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\steel\practicingLogics.Net\Exercises\obj\Debug\net6.0\Exercises.AssemblyInfoInputs.cache
+C:\Users\steel\practicingLogics.Net\Exercises\obj\Debug\net6.0\Exercises.AssemblyInfo.cs
+C:\Users\steel\practicingLogics.Net\Exercises\obj\Debug\net6.0\Exercises.csproj.CoreCompileInputs.cache
+C:\Users\steel\practicingLogics.Net\Exercises\obj\Debug\net6.0\Exercises.dll
+C:\Users\steel\practicingLogics.Net\Exercises\obj\Debug\net6.0\refint\Exercises.dll
+C:\Users\steel\practicingLogics.Net\Exercises\obj\Debug\net6.0\Exercises.pdb
+C:\Users\steel\practicingLogics.Net\Exercises\obj\Debug\net6.0\ref\Exercises.dll

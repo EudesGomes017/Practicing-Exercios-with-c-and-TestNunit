@@ -83,7 +83,9 @@ namespace Exercises
 
             double retangulo = A * B;
 
-            return triangulo;
+             double result  = triangulo + circulo + trapezio + quadrado + retangulo;
+
+            return result;
         }
 
     }
