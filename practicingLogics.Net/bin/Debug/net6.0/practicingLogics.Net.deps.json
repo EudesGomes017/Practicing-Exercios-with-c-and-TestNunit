@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "practicingLogics.Net/1.0.0": {
+        "dependencies": {
+          "Exercises": "1.0.0"
+        },
+        "runtime": {
+          "practicingLogics.Net.dll": {}
+        }
+      },
+      "Exercises/1.0.0": {
+        "runtime": {
+          "Exercises.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "practicingLogics.Net/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Exercises/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
