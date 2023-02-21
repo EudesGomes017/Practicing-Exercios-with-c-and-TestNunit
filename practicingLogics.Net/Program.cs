@@ -7,17 +7,21 @@ namespace MyApp // Note: actual namespace depends on the project name.
     {
         static void Main(string[] args)
         {
-            Exercicios exerciciosOne = new Exercicios();
-
+             Exercicios exerciciosOne = new Exercicios();
+            ArrayExercise arrayExercise = new ArrayExercise();
+            
+          
             int a = Convert.ToInt32(Console.ReadLine());
-            int b = Convert.ToInt32(Console.ReadLine());
+            //int b = Convert.ToInt32(Console.ReadLine());
 
-            int c = Convert.ToInt32(Console.ReadLine());
-            int d = Convert.ToInt32(Console.ReadLine());
+            //int c = Convert.ToInt32(Console.ReadLine());
+            //int d = Convert.ToInt32(Console.ReadLine());
 
-            double result = exerciciosOne.DoublePrecisionCalculates(a, b, c);
+            //double result = exerciciosOne.DoublePrecisionCalculates(a, b, c);
 
-            Console.WriteLine(result);
+            List<int> list = arrayExercise.Array(a);
+
+            Console.WriteLine(list);
         }
     }
 }

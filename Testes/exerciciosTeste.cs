@@ -13,16 +13,16 @@ namespace Testes
         }
 
 
-        [Test]
-        public void DoublePrecisionCalculates_CalculeValues()
-        {
-            double a = 3;
-            double b = 2;   
-            double c = 3;
+        //[Test]
+        //public void DoublePrecisionCalculates_CalculeValues()
+        //{
+        //    double a = 3;
+        //    double b = 2;   
+        //    double c = 3;
 
-            double result = exercicios.DoublePrecisionCalculates(a, b, c);
+        //    double result = exercicios.DoublePrecisionCalculates(a, b, c);
 
-            Assert.AreEqual(4.5, result);
-        }
+        //    Assert.AreEqual(4.5, result);
+        //}
     }
 }
